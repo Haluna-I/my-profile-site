@@ -304,10 +304,6 @@ section {
   margin-bottom: 12px;
 }
 
-.section-label--spaced {
-  margin-top: 80px;
-}
-
 .section-title {
   font-family: 'Cormorant Garamond', serif;
   font-size: 2.5rem;
@@ -361,27 +357,6 @@ section {
 
 .timeline-content strong {
   font-weight: 500;
-}
-
-/* Award */
-.award-box {
-  background: #ffffff;
-  padding: 40px 48px;
-  border-left: 3px solid var(--accent);
-}
-
-.award-year {
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--text-muted);
-  letter-spacing: 0.1em;
-  margin-bottom: 12px;
-}
-
-.award-box p {
-  font-size: 0.95rem;
-  color: var(--text);
-  line-height: 1.9;
 }
 
 /* Skills */
